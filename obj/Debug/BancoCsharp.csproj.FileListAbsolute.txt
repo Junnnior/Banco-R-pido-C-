@@ -1,0 +1,9 @@
+c:\users\junior\documents\visual studio 2015\Projects\BancoCsharp\BancoCsharp\bin\Debug\BancoCsharp.exe.config
+c:\users\junior\documents\visual studio 2015\Projects\BancoCsharp\BancoCsharp\bin\Debug\BancoCsharp.exe
+c:\users\junior\documents\visual studio 2015\Projects\BancoCsharp\BancoCsharp\bin\Debug\BancoCsharp.pdb
+c:\users\junior\documents\visual studio 2015\Projects\BancoCsharp\BancoCsharp\obj\Debug\BancoCsharp.csprojResolveAssemblyReference.cache
+c:\users\junior\documents\visual studio 2015\Projects\BancoCsharp\BancoCsharp\obj\Debug\BancoCsharp.Form1.resources
+c:\users\junior\documents\visual studio 2015\Projects\BancoCsharp\BancoCsharp\obj\Debug\BancoCsharp.Properties.Resources.resources
+c:\users\junior\documents\visual studio 2015\Projects\BancoCsharp\BancoCsharp\obj\Debug\BancoCsharp.csproj.GenerateResource.Cache
+c:\users\junior\documents\visual studio 2015\Projects\BancoCsharp\BancoCsharp\obj\Debug\BancoCsharp.exe
+c:\users\junior\documents\visual studio 2015\Projects\BancoCsharp\BancoCsharp\obj\Debug\BancoCsharp.pdb
