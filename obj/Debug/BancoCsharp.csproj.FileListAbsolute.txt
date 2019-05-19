@@ -7,3 +7,16 @@ c:\users\junior\documents\visual studio 2015\Projects\BancoCsharp\BancoCsharp\ob
 c:\users\junior\documents\visual studio 2015\Projects\BancoCsharp\BancoCsharp\obj\Debug\BancoCsharp.csproj.GenerateResource.Cache
 c:\users\junior\documents\visual studio 2015\Projects\BancoCsharp\BancoCsharp\obj\Debug\BancoCsharp.exe
 c:\users\junior\documents\visual studio 2015\Projects\BancoCsharp\BancoCsharp\obj\Debug\BancoCsharp.pdb
+c:\users\junior\documents\visual studio 2015\Projects\BancoCsharp\BancoCsharp\bin\Debug\Npgsql.dll
+c:\users\junior\documents\visual studio 2015\Projects\BancoCsharp\BancoCsharp\bin\Debug\System.Buffers.dll
+c:\users\junior\documents\visual studio 2015\Projects\BancoCsharp\BancoCsharp\bin\Debug\System.Memory.dll
+c:\users\junior\documents\visual studio 2015\Projects\BancoCsharp\BancoCsharp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+c:\users\junior\documents\visual studio 2015\Projects\BancoCsharp\BancoCsharp\bin\Debug\System.Threading.Tasks.Extensions.dll
+c:\users\junior\documents\visual studio 2015\Projects\BancoCsharp\BancoCsharp\bin\Debug\System.ValueTuple.dll
+c:\users\junior\documents\visual studio 2015\Projects\BancoCsharp\BancoCsharp\bin\Debug\Npgsql.pdb
+c:\users\junior\documents\visual studio 2015\Projects\BancoCsharp\BancoCsharp\bin\Debug\Npgsql.xml
+c:\users\junior\documents\visual studio 2015\Projects\BancoCsharp\BancoCsharp\bin\Debug\System.Buffers.xml
+c:\users\junior\documents\visual studio 2015\Projects\BancoCsharp\BancoCsharp\bin\Debug\System.Memory.xml
+c:\users\junior\documents\visual studio 2015\Projects\BancoCsharp\BancoCsharp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+c:\users\junior\documents\visual studio 2015\Projects\BancoCsharp\BancoCsharp\bin\Debug\System.Threading.Tasks.Extensions.xml
+c:\users\junior\documents\visual studio 2015\Projects\BancoCsharp\BancoCsharp\bin\Debug\System.ValueTuple.xml

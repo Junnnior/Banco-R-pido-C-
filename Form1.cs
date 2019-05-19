@@ -26,7 +26,7 @@ namespace BancoCsharp
             try
             {
                 Pessoa res = new CreateUser().criaUsuario(nome);
-                MessageBox.Show("CONTA CRIADA\n n° " + res.Conta);
+                MessageBox.Show("conta: " + res.Conta + "\nsenha: "+res.Senha);
 
             }
             catch
